@@ -3,7 +3,7 @@
     margin: 0;box-sizing: border-box;
 }
 body{
-    background: linear-gradient(rgba(113, 61, 235, 0.5), rgba(113, 61, 235, 0.5)),  url("http://127.0.0.1:5500/survey-form-background.jpeg")  ;
+    background: linear-gradient(rgba(113, 61, 235, 0.5), rgba(113, 61, 235, 0.5)),  url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg")  ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
